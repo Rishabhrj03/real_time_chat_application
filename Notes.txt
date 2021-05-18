@@ -1,0 +1,21 @@
+WebSocket client or server ko on time message send karta hai
+
+Http Response 
+
+socket io
+ws ->  web socket
+wss -> web socket secure
+
+events -> onclick, drag
+
+client->            <-server
+
+Http me aap khud Request karte ho 
+
+client Server (independent website)
+
+Node Server (chat server alag website)
+
+front end website
+
+defer -> dom load hone ke baad run hoti hai
